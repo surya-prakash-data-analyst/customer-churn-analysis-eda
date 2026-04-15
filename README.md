@@ -229,8 +229,8 @@ jupyter notebook notebooks/Credit_Card_EDA.ipynb
 
 **Surya Prakash** — Data Analyst  
 📍 Hyderabad, India  
-🔗 [LinkedIn](https://www.linkedin.com/in/suryaprakash-data-analyst) · 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)
-📧 suryaprakash1892@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/surya-prakash-data-analyst) &nbsp;·&nbsp; 🐙 [GitHub](https://github.com/surya-prakash-data-analyst)  
+📧 *suryaprakash1892@gmail.com*
 ---
 
 > *"Financial dashboards don't just show what happened — they show where the risk is building before it becomes a problem. That's what this project was built to do."*
